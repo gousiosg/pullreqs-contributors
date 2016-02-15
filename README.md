@@ -38,7 +38,7 @@ the work behind this dataset as follows:
 
 ```
 @inproceedings{GSB16,
-  author = {Gousios, Georgios and Zaidman, Andy and Storey, Margaret-Anne and van Deursen, Arie},
+  author = {Gousios, Georgios and Storey, Margaret-Anne and Bacchelli, Alberto},
   title = {Work Practices and Challenges in Pull-Based Development: The Contributor's Perspective},
   booktitle = {Proceedings of the 38th International Conference on Software Engineering},
   series = {ICSE},
