@@ -44,7 +44,7 @@ the work behind this dataset as follows:
   title = {Work Practices and Challenges in Pull-Based Development: The Contributor's Perspective},
   booktitle = {Proceedings of the 38th International Conference on Software Engineering},
   series = {ICSE},
-  year = {2015},
+  year = {2016},
   month = may,
   volume = {1},
   location = {Austin, Texas},
