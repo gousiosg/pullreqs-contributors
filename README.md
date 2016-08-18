@@ -1,4 +1,4 @@
-## Pull Request Integrators survey data
+## Pull Request Contributors survey data
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46063.svg)](http://dx.doi.org/10.5281/zenodo.46063)
 
