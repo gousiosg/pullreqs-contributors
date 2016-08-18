@@ -43,11 +43,15 @@ the work behind this dataset as follows:
   author = {Gousios, Georgios and Storey, Margaret-Anne and Bacchelli, Alberto},
   title = {Work Practices and Challenges in Pull-Based Development: The Contributor's Perspective},
   booktitle = {Proceedings of the 38th International Conference on Software Engineering},
-  series = {ICSE},
   year = {2016},
   month = may,
-  volume = {1},
   location = {Austin, Texas},
-  doi = {10.1145/2884781.2884826}
+  series = {ICSE '16},
+  isbn = {978-1-4503-3900-1},
+  publisher = {ACM},
+  pages = {285--296},
+  doi = {10.1145/2884781.2884826},
+  note = {ACM SIGSOFT Distinguished paper},
+  url = {http://gousios.gr/bibliography/GSB16.html}
 }
 ```
