@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46063.svg)](http://dx.doi.org/10.5281/zenodo.46063)
 
-A repository with survey data for how project owners (integrators) use pull
+A repository with survey data for how project contributors use pull
 requests on Github. The repository corresponds to data and code used for the
 following publication:
 
